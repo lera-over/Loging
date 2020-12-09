@@ -1,0 +1,14 @@
+Lines of code metrics,ср, 9 дек. 2020 15:06:18 MSK
+Package,LOC,LOC(rec),LOCp,LOCp(rec),LOCt,LOCt(rec)
+"",97,97,97,97,0,0
+
+Module,L(Groovy),L(HTML),L(J),L(KT),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+"Andreeva_log",0,0,90,0,0,113,97,0,90,90,0
+
+FileType,LOC,NCLOC
+"Java",90,90
+"Text",23,n/a
+
+Project,L(Groovy),L(HTML),L(J),L(KT),L(XML),LOC,LOCp,LOCt,NCLOC,NCLOCp,NCLOCt
+"project",0,0,90,0,0,113,97,0,90,90,0
+
